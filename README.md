@@ -4,7 +4,9 @@ Construis ton SCRUM est un atelier permettant de découvrir ou redécouvrir le c
 
 Pour ce faire, il faudra découper les différents éléments disponible de la fiche ci-dessous afin de constituer le cycle SCRUM tel que tu le conçois aujourd'hui.
 
-![image](./images/CS-recto.png)
+![recto](./images/CS-recto.png)
+
+Télécharger les fiches : [recto](./images/CS-recto.png "recto") | [verso](./images/CS-recto.png "verso")
 
 Pour ce faire, il y a 4 types d'éléments :
 - Les artefacts, de couleur bleue ;
