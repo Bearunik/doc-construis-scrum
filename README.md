@@ -6,7 +6,7 @@ Pour ce faire, il faudra découper les différents éléments disponible de la f
 
 ![recto](./images/CS-recto.png)
 
-Télécharger les fiches : [recto](./images/CS-recto.png "recto") | [verso](./images/CS-recto.png "verso")
+Télécharger les fiches | [recto](./images/CS-recto.png "recto") | [verso](./images/CS-verso.png "verso")
 
 Pour ce faire, il y a 4 types d'éléments :
 - Les artefacts, de couleur bleue ;
